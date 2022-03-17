@@ -1,5 +1,5 @@
 # Deploying plotly app on GCP
-Pre-requisites: Google cloud Trial account, gcloud shell (comman line interface)
+Pre-requisites: Google cloud Trial account, gcloud shell (command line interface)
 
 - Step 1: Clone this repository
 - Step 2: Go to the tut_1 folder on the command line interface (terminal/Powershell)
